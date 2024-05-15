@@ -1,6 +1,6 @@
 // import React from 'react'
 
-const UpdateCoffee = () => {
+const UpdateCoffee = ({params}) => {
   return (
     <div>UpdateCoffee</div>
   )
