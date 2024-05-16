@@ -53,7 +53,7 @@ const AddCoffee = () => {
 
       <form onSubmit={handleAddCoffee} className="bg-base-200 py-10">
         <h3 className="text-4xl text-center pt-10">Add new Coffee</h3>
-        <p className="text-center px-36">
+        <p className="text-center px-36 py-10">
           It is a long established fact that a reader will be districted by the
           readable content of a page when looking at its layout. The point of
           using Lorem Ipsum is that it has a more-or-less normal distribution of
